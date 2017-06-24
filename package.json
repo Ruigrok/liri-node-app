@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Testing Exercises for Node",
+  "main": "keys.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.1.1",
+    "node-spotify-api": "^1.0.5",
+    "require": "^2.4.20",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruigrok/liri-node-app.git"
+  },
+  "author": "Andrew Ruigrok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruigrok/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Ruigrok/liri-node-app#readme"
+}
